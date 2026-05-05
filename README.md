@@ -1,4 +1,4 @@
-# 🌸 Web A25 — Satu Foto, Sejuta Kenangan
+# 🙌 Web A25 — Satu Foto, Sejuta Kenangan
 
 Website **Web A25** dibuat sebagai ruang kenangan untuk Angkatan 25 A2.  
 Bukan hanya sekadar website foto, tapi tempat untuk mengingat cerita, tawa, kebersamaan, dan perjalanan yang pernah kita lewati bersama.
@@ -61,7 +61,7 @@ Semoga website ini menjadi tempat kecil untuk menyimpan rasa rindu, cerita lama,
 
 ---
 
-## 🌷 Pesan untuk A25
+## 🤗 Pesan untuk A25
 
 Terima kasih untuk semua kenangan.  
 Untuk tawa, cerita, perjuangan, dan kebersamaan yang pernah kita bangun.
