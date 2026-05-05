@@ -1,4 +1,3 @@
-Siap, ini README yang bisa langsung kamu pakai:
 
 ```md
 # 🌸 Web A25 — Satu Foto, Sejuta Kenangan
