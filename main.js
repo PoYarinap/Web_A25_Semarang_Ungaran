@@ -86,47 +86,47 @@ document.addEventListener('click', (e) => {
 // ---- Photo data ----
 const photos = [
     {
-        url: 'https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=600&q=80',
+        url: 'img/foto1.jpeg',
         quote: 'Hari yang tidak akan pernah terlupakan',
         date: '2025 · A2',
     },
     {
-        url: 'https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80',
+        url: 'img/foto8.jpeg',
         quote: 'Bersama, segalanya terasa lebih ringan',
-        date: '2025 · A2',
+        date: '2026 · A2',
     },
     {
-        url: 'https://images.unsplash.com/photo-1541844053589-346841d0b34c?w=600&q=80',
+        url: 'img/foto2.jpeg',
         quote: 'Senyum yang selalu kuingat',
         date: '2025 · A2',
     },
     {
-        url: 'https://images.unsplash.com/photo-1540479859555-17af45c78602?w=600&q=80',
+        url: 'img/foto3.jpeg',
         quote: 'Momen kecil yang punya makna besar',
         date: '2025 · A2',
     },
     {
-        url: 'https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=600&q=80',
+        url: 'img/foto4.jpeg',
         quote: 'Tawa yang paling tulus pernah kudengar',
         date: '2025 · A2',
     },
     {
-        url: 'https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=600&q=80',
+        url: 'img/foto5.jpeg',
         quote: 'Di sini, kita pernah muda',
         date: '2025 · A2',
     },
     {
-        url: 'https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=600&q=80',
+        url: 'img/foto6.jpeg',
         quote: 'Perjalanan yang mengubah segalanya',
         date: '2025 · A2',
     },
     {
-        url: 'https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&q=80',
+        url: 'img/foto5.jpeg',
         quote: 'Kita yang dulu, selalu ada di sini',
         date: '2025 · A2',
     },
     {
-        url: 'https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=600&q=80',
+        url: 'img/foto7.jpeg',
         quote: 'Mimpi yang kita rajut bersama',
         date: '2025 · A2',
     },
