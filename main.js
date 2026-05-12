@@ -88,47 +88,47 @@ const photos = [
     {
         url: 'img/foto1.jpeg',
         quote: 'Hari yang tidak akan pernah terlupakan',
-        date: '2025 · A2',
+        date: '2026 · A25',
     },
     {
         url: 'img/foto8.jpeg',
         quote: 'Bersama, segalanya terasa lebih ringan',
-        date: '2026 · A2',
+        date: '2026 · A25',
     },
     {
         url: 'img/foto2.jpeg',
         quote: 'Senyum yang selalu kuingat',
-        date: '2025 · A2',
+        date: '2026 · A25',
     },
     {
         url: 'img/foto3.jpeg',
         quote: 'Momen kecil yang punya makna besar',
-        date: '2025 · A2',
+        date: '2026 · A25',
     },
     {
         url: 'img/foto4.jpeg',
         quote: 'Tawa yang paling tulus pernah kudengar',
-        date: '2025 · A2',
+        date: '2026 · A25',
     },
     {
         url: 'img/foto5.jpeg',
         quote: 'Di sini, kita pernah muda',
-        date: '2025 · A2',
+        date: '2026 · A25',
     },
     {
         url: 'img/foto6.jpeg',
         quote: 'Perjalanan yang mengubah segalanya',
-        date: '2025 · A2',
+        date: '2026 · A25',
     },
     {
         url: 'img/foto5.jpeg',
         quote: 'Kita yang dulu, selalu ada di sini',
-        date: '2025 · A2',
+        date: '2026 · A25',
     },
     {
         url: 'img/foto7.jpeg',
         quote: 'Mimpi yang kita rajut bersama',
-        date: '2025 · A2',
+        date: '2026 · A25',
     },
 ]
 
